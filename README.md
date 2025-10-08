@@ -19,7 +19,6 @@ With a master’s degree in **Physics**, I approach programming with a logical, 
 ### 🎮 Featured Projects
 | Project | Description |
 |----------|-------------|
-| TBD |
 | 📘 [C# Masterclass Progress](https://github.com/VictorioMo/csharp-complete-masterclass) | My learning repository: cheat sheets, notes, and code samples from the course. |
 
 ---
@@ -39,7 +38,6 @@ Every game mechanic is just another experiment with better graphics. ⚡
 
 ### 📫 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/victorio-moraru/)  
-- 🧠 [GitHub Portfolio](https://github.com/VictorioMo)  
 - ✉️ moraruvictorio@gmail.com  
 
 ---
