@@ -19,6 +19,7 @@ With a master’s degree in **Physics**, I approach programming with a logical, 
 ### 🎮 Featured Projects
 | Project | Description |
 |----------|-------------|
+| 📘 [Pong Game in Unity](https://github.com/VictorioMo/GamePong) | A classic Pong remake built in Unity as part of my C# Masterclass learning journey. |
 | 📘 [C# Masterclass Progress](https://github.com/VictorioMo/csharp-complete-masterclass) | My learning repository: cheat sheets, notes, and code samples from the course. |
 
 ---
