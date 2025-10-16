@@ -9,7 +9,7 @@ With a master’s degree in **Physics**, I approach programming with a logical, 
 ---
 
 ### 🧩 Tech Stack
-- **Languages:** C, C++, C#, SQL  
+- **Languages:** C, C++, C#
 - **Frameworks:** .NET, WPF, Unity  
 - **Tools:** Visual Studio, Git, Git Extensions 
 - **Concepts:** Clean Code, OOP, Generics, Design Patterns, TDD basics
