@@ -19,10 +19,7 @@ With a master’s degree in **Physics**, I approach programming with a logical, 
 ### 🎮 Featured Projects
 | Project | Description |
 |----------|-------------|
-| 📘 [Fruit Ninja in Unity](https://github.com/VictorioMo/fruit-ninja-clone) | Fruit Ninja clone built in Unity as part of my C# Masterclass learning journey. |
-| 📘 [Zig Zag in Unity](https://github.com/VictorioMo/zig-zag-clone) | Zig Zag game remake built in Unity as part of my C# Masterclass learning journey. |
-| 📘 [Pong Game in Unity](https://github.com/VictorioMo/game-pong) | A classic Pong remake built in Unity as part of my C# Masterclass learning journey. |
-| 📘 [C# Masterclass Progress](https://github.com/VictorioMo/csharp-complete-masterclass) | My learning repository: cheat sheets, notes, and code samples from the course. |
+| 📘 [Planet Miner](https://l1fedrain.itch.io/planet-miner) | A game where you control a mining robot sent to extract resources from a mysterious planet. |
 
 ---
 
