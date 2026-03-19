@@ -42,7 +42,3 @@ Every game mechanic is just another experiment with better graphics. ⚡
 ### 📫 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/victorio-moraru/)  
 - ✉️ moraruvictorio@gmail.com  
-
----
-
-⭐ *"I like when code behaves as predictably as physics — and breaks just as beautifully when it doesn’t.”*
