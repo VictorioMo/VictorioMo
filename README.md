@@ -32,7 +32,6 @@ With a master’s degree in **Physics**, I approach programming with a logical, 
 
 ### 🧠 Fun Fact
 Physics taught me to model the invisible — programming lets me bring it to life.  
-Every game mechanic is just another experiment with better graphics. ⚡
 
 ---
 
