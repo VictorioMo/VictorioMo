@@ -4,7 +4,6 @@
 💻 Passionate about **C#**, **.NET**, and **Unity**
 
 I’m an embedded software developer transitioning into the world of **application** and **game development**.  
-With a master’s degree in **Physics**, I approach programming with a logical, systems-oriented mindset — whether it’s writing efficient code, simulating real-world behavior, or designing gameplay that *feels right*.
 
 ---
 
