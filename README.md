@@ -8,8 +8,8 @@ I’m an embedded software developer transitioning into the world of **applicati
 ---
 
 ### 🧩 Tech Stack
-- **Languages:** C, C++, C#
-- **Frameworks:** .NET, WPF, Unity  
+- **Languages:** C, C++, C#, Javascript, Typescript
+- **Frameworks:** .NET, Unity, WPF, Angular
 - **Tools:** Visual Studio, Git, Git Extensions 
 - **Concepts:** Clean Code, OOP, Generics, Design Patterns, TDD basics
 
