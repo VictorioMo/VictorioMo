@@ -1,39 +1,45 @@
-# 👋 Hey, I’m Victorio
+# 👋 Hey, I'm Victorio!
 
-🎯 **Software Game Developer**  
-💻 Passionate about **C#**, **.NET**, and **Unity**
+🎯 **Software Engineer | C# / .NET | Game Development**
 
-I’m an embedded software developer transitioning into the world of **application** and **game development**.  
+💻 Software developer with a background in **Embedded Systems**, now exploring application development, mobile technologies, and game development.
 
 ---
 
 ### 🧩 Tech Stack
-- **Languages:** C, C++, C#, Javascript, Typescript
-- **Frameworks:** .NET, Unity, WPF, Angular
-- **Tools:** Visual Studio, Git, Git Extensions 
-- **Concepts:** Clean Code, OOP, Generics, Design Patterns, TDD basics
+
+- **Languages:** C, C++, C#, JavaScript, TypeScript
+- **Frameworks & Engines:** .NET, .NET MAUI, WPF, Angular, Unity
+- **Tools:** Visual Studio, Git, GitHub, VS Code
+- **Concepts:** OOP, SOLID, Design Patterns, REST APIs, Networking
 
 ---
 
-### 🎮 Featured Projects
+### 🚀 Featured Projects
+
 | Project | Description |
-|----------|-------------|
-| 📘 [Planet Miner](https://l1fedrain.itch.io/planet-miner) | A game where you control a mining robot sent to extract resources from a mysterious planet. |
+|---|---|
+| 🎮 [Planet Miner](https://l1fedrain.itch.io/planet-miner) | A complete Unity game featuring spherical gravity, mining, upgrades, exploration, and progression. |
+| 🌐 [Multiplayer Prototype](https://github.com/VictorioMo/ArtDock-Games-Multiplayer-Prototype) | Unity multiplayer prototype using Netcode for GameObjects, featuring player synchronization and networked physics. |
+| 🎲 [EntropyLab](https://github.com/VictorioMo/EntropyLab) | Cross-platform random number generator built with .NET MAUI and Angular, integrating the RANDOM.ORG API. |
 
 ---
 
 ### 🌱 Currently Exploring
-- Unity scripting & physics  
-- Game architecture (SOLID, DI)  
-- .NET desktop apps and API integration
+
+- C# / .NET application development
+- Mobile development with Angular and React
+- Unity game development and networking
 
 ---
 
 ### 🧠 Fun Fact
-Physics taught me to model the invisible — programming lets me bring it to life.  
+
+*Physics taught me to model the invisible — programming lets me bring it to life.*
 
 ---
 
 ### 📫 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/victorio-moraru/)  
-- ✉️ moraruvictorio@gmail.com  
+
+💼 [LinkedIn](https://www.linkedin.com/in/victorio-moraru/)  
+✉️ moraruvictorio@gmail.com
